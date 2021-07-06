@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-2306
-=======
-2241849494994494
->>>>>>> Stashed changes
-=======
->>>>>>> parent of fac8391 (new branchA)
